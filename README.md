@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+It's simple! Add the following directive to your Javascript manifest file (application.js):
+
+```
+//= require reflux
+```
 
 ## Development
 
